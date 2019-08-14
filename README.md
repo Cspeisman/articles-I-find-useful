@@ -4,3 +4,5 @@
 
 
 [devhints.io](https://devhints.io/) - Not a blog post or article but it is a cheatsheet for literally anything I'd ever need
+
+[agile for enterprises](https://foxbox.co/blog/agile-product-development/) - Title is a little misleading in the sense that this really just a great resource for running agile projects
