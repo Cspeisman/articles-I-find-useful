@@ -8,3 +8,5 @@
 [agile for enterprises](https://foxbox.co/blog/agile-product-development/) - Title is a little misleading in the sense that this is really just a great blog post on agile in general
 
 [Understanding SVG Coordinate system](https://www.sarasoueidan.com/blog/svg-coordinate-systems/) - SVGs are hard
+
+[Back to Basics: SOLID](https://thoughtbot.com/blog/back-to-basics-solid) - Easy to undrstand explaination of SOLID principals
