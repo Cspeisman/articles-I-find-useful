@@ -10,3 +10,5 @@
 [Understanding SVG Coordinate system](https://www.sarasoueidan.com/blog/svg-coordinate-systems/) - SVGs are hard
 
 [Back to Basics: SOLID](https://thoughtbot.com/blog/back-to-basics-solid) - Easy to undrstand explaination of SOLID principals
+
+[React w TypeScript](https://www.sitepoint.com/react-with-typescript-best-practices) - Beginner friendly but also fairly deep dive into using typescript with react
