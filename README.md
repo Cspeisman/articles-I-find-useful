@@ -12,3 +12,5 @@
 [Back to Basics: SOLID](https://thoughtbot.com/blog/back-to-basics-solid) - Easy to undrstand explaination of SOLID principals
 
 [React w TypeScript](https://www.sitepoint.com/react-with-typescript-best-practices) - Beginner friendly but also fairly deep dive into using typescript with react
+
+[First 90 days as CTO or VPE](https://lethain.com/first-ninety-days-cto-vpe/) - This post is geared towards CTOs and VPs but most of the content is a great resource for all contributors to an engineering org
