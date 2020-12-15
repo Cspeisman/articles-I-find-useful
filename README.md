@@ -16,3 +16,5 @@
 [First 90 days as CTO or VPE](https://lethain.com/first-ninety-days-cto-vpe/) - This post is geared towards CTOs and VPs but most of the content is a great resource for all contributors to an engineering org
 
 [Observation on product management](https://medium.com/hackernoon/observations-on-product-management-3abc7e00148e) At the time adding this to the list, I whole heartily agree with all these points
+
+[Good advice on refactoring a monolith](https://shopify.engineering/shopify-monolith)
