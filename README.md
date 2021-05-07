@@ -17,4 +17,6 @@
 
 [Observation on product management](https://medium.com/hackernoon/observations-on-product-management-3abc7e00148e) At the time adding this to the list, I whole heartily agree with all these points
 
-[Good advice on refactoring a monolith](https://shopify.engineering/shopify-monolith)
+[Good advice on refactoring a monolith](https://shopify.engineering/shopify-monolith) 
+
+[GIST Framework](https://itamargilad.com/gist-framework/) I've never tried this but I'd love to give it a shot. I strongly believe in quick feedback loops and validating assumptions early. I've had most success with lean product development but have found it to be really challenging to get teams to adopt it who have never done it before because it requires so much discipline and is fairly counter intuitive to how we view innovation and product development
