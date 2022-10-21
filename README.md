@@ -1,5 +1,7 @@
 # articles-I-find-useful
 
+[Accumulating Tech Debt](https://martinfowler.com/articles/bottlenecks-of-scaleups/01-tech-debt.html) - It amazes me how many teams operate in terrible tech debt. Usually when I join a new team I advocate strongly for cleaning up code. More often than not, it's a very tough sell and product, stakeholders, and managers never see the value in it. 
+
 [The 4 layers of SPA](https://hackernoon.com/architecting-single-page-applications-b842ea633c2e) - This article provides a great template for architecting Single Page Applications while remaining view layer (framework: react, angular, vue) agnostic.
 
 
